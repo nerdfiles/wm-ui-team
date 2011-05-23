@@ -17,6 +17,8 @@ get_header(); ?>
 
 		<div id="container">
 			<div id="content" role="main">
+				
+			<p>Theme test.</p>
 
 			<?php
 			/* Run the loop to output the posts.
