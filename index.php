@@ -14,5 +14,6 @@
 define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
-require('./wp-blog-header.php');
+// http://adcappd225.wm.com/wm-ui-team
+require('./wm-ui-team/wp-blog-header.php');
 ?>
